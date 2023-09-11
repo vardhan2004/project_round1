@@ -1,0 +1,189 @@
+.r1{
+    background-color: rgb(247, 227, 230);
+}
+.masthead{
+    background-size: cover;
+    background-image: url("images/donate.avif");
+    background-size: cover;
+    background-position:center;
+    width: 100%;
+    min-height: 120vh;
+}
+button{
+    background-color: none;
+    border: none;
+}
+#icon{
+    width: 45px;
+    height: 45px;
+}
+.navbar{
+    background-color: rgb(247, 227, 230);
+}
+.topt{
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}
+.b1{
+    padding: 5px 30px;
+    background-color: navy;
+    color: white;
+}
+.b2{
+    padding: 5px 30px;
+    border: 2px solid navy;
+}
+.c_i1{
+    width: 100px;
+    height: 100px;
+}
+.h4{
+    font-weight: bolder;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.c_p1{
+    
+    line-height: 25px;
+    font-size: 17px;
+}
+.m_d1{
+    height: 500px;
+}
+.w1{
+    height: 400px;
+    width: 560px;
+    padding: 0px 10px 0px 0px;
+}
+.head1{
+
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.p1{
+    font-size: 19px;
+    line-height: 25px;
+}
+.li_1{
+    font-weight: bold;
+    padding-bottom: 10px;
+    font-size: 17px;
+}
+.pic1{
+    height: 100vh;
+    display: flex;
+    position: relative;
+    background-color: violet;
+}
+.pic1::before{
+    background-image: url('images/heart.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    content: '';
+    position: absolute;
+    inset: 0;
+    opacity: 0.3;
+}
+.he_t1{
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+    isolation: isolate;
+    padding-top: 100px;
+}
+.he_p1{
+    font-size: 20px;
+    color: white;
+    line-height: 30px;
+    isolation: isolate;
+}
+.play{
+    height: 300px;
+    width: 450px;
+    position: relative;
+    top: 170px;
+}
+.he_div{
+    padding-left: 100px;
+}
+.p2{
+    font-size: 19px;
+    text-align: center;
+    padding: 0px 30px;
+}
+.o_m{
+    height: 200px;
+    width: 340px;
+    padding-top: 10px;
+}
+.v_t1{
+    font-size: 40px;
+    color: white;
+    font-weight: bolder;
+    padding-top: 100px;
+}
+input{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+}
+.d_b1{
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+    width: 100%;
+    font-weight: bolder;
+    position: relative;
+    top: 130px;
+}
+.v_r1{
+    position: relative;
+    top: 130px;
+}
+.l_i1{
+    height: 100vh;
+    display: flex;
+    position: relative;
+    background-color: lightgoldenrodyellow;
+}
+.l_i1::before{
+    background-image: url('images/people_dancing.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    content: '';
+    position: absolute;
+    inset: 0;
+    opacity: 0.3;
+}
+.l_t1{
+    isolation: isolate;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 230px;
+    padding-left: 100px;
+}
+.l_b1{
+    isolation: isolate;
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    position: relative;
+    top: 400px;
+    right: 500px;
+}
+.leaf{
+    height: 200px;
+    width: 200px;
+}
+.f_p1{
+    font-size: 17px;
+    line-height: 30px;
+    color: grey;
+}
+.fa-brands{
+    font-size: 20px;
+    padding: 10px;
+    
+}
